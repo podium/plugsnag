@@ -24,7 +24,7 @@ defmodule Plugsnag.Mixfile do
 
   defp deps do
     [{:bugsnag, github: "rex-en-abyme/bugsnag-elixir"},
-     {:plug, "~> 1.0"}
+     {:plug, "~> 1.1.6"}
     ]
   end
 end

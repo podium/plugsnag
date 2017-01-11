@@ -24,7 +24,7 @@ defmodule Plugsnag.Mixfile do
 
   defp deps do
     [{:bugsnag, github: "podium/bugsnag-elixir"},
-     {:plug, "~> 1.1.6"}
+     {:plug, "~> 1.1"}
     ]
   end
 end
